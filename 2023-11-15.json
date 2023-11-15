@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Yates",
+  "age": 19,
+  "address": {
+    "street": "Povjuk Pike",
+    "city": "Macoksaj",
+    "state": "NC",
+    "zip": "77669"
+  },
+  "contact": {
+    "phone": "(740) 203-2397",
+    "servicePhone": "800544955"
+  },
+  "birthday": "1988-07-10T09:50:41.982Z",
+  "ip": "228.182.47.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Cedboric vedsov cofic foclehulo guinher tobazez nudo kuz vifijde otorolupi ki ifokeczoj guujeho ja gutok sabec lita jocefe. Agjidut biufo ag av dutu do roazvud wewuskuw jakahbu me vet bernagu. Votib witi edrumo binaw fucecu ujdewar pafijtew usfenhah opanirihe lav vuhbon ere ce roawe cesev.",
+    "bio": "Ajopiiw zajol zuzve idnapoli revekam jizcansew muwew omu fotkeku godvuz fez we fi tozaow ikegim agamegeg okename. Cirlasuba veje jep hurpuva nutpiivu hok gubalumeb im hag et jobujdun en tosvanpep jivopzi zejgibapo. Rosjulo kivog za mu puti wasi ufoepo sa juh mimnas moki niblu vic. Ji ise arogager fu cev awaofemeb vuz vov todawij gaihovu dojipu felud."
+  },
+  "apiKey": "a7a12e72d3c5ed71075c6ffaa41cb8e9748c7dba0c129f6baf0deab6f91b89b5",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
