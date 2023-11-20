@@ -1,0 +1,26 @@
+{
+  "name": "Emma Martin",
+  "age": 42,
+  "address": {
+    "street": "Oldof Pass",
+    "city": "Mewmutped",
+    "state": "NC",
+    "zip": "60900"
+  },
+  "contact": {
+    "phone": "(236) 671-5967",
+    "servicePhone": "800531313"
+  },
+  "birthday": "1988-07-08T17:32:06.344Z",
+  "ip": "209.95.3.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Ik ivohasjub gamdu ede lefijud ullelsi dawor hazrufsa ko perga zico dezi we wudco. Ev tegjoh mi fu vos oz ub li ziduwed fanuse pogikjot mo puwkenem egavto paiz. Cowolci dipi fikoh uziw werewa oz julpu larsal we cuc jad fut lenen laega utupa rusi.",
+    "bio": "Se biek es ledoeno ahi epde naijojo tig laru viov pafpaz tofpu. Lij zuhofko topav efetojule suzreuw idesu mib za jeizi ur uzba co gad vesbe keptewa. Ofi nutmem lusitul nuzmo hub tilbijej mopradca eda givokmu kupin pehabe go gezca worokozev."
+  },
+  "apiKey": "3badba8575d10deb96bc2aedf4d246a6656eff5e213fc72652eec0d6d792947e",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
