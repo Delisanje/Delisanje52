@@ -1,0 +1,26 @@
+{
+  "name": "Terry Singleton",
+  "age": 58,
+  "address": {
+    "street": "Zehek Square",
+    "city": "Civbocu",
+    "state": "SC",
+    "zip": "07247"
+  },
+  "contact": {
+    "phone": "(916) 290-7063",
+    "servicePhone": "800656927"
+  },
+  "birthday": "1972-02-17T14:20:18.224Z",
+  "ip": "235.6.72.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Ava zab ru rogapafi odo lugin boc ubauwto peobi namzeb zonu juc deogibeh jom mojoih rikavweg onecut luwucuw. Zahuel fu riucufa hepbe kimata marpicema ec cuk hep wirhamef je zejsomeha ikafe saemuz hertosom wevuf wizgiro. One ufiotar zazgouwo ziik fi nabezu biv runcem bencavtiz vuten aki uci hodjek mazji lehivse ecci ukfu lohbave.",
+    "bio": "Loheh lawa rultuhzaj za hiwuzfoh zo hemafi niekoma vecesoiwu la kupauve be hemvur vuivi ica viz pim ugiewafe. Dahna fonmawfe vu zuwugkul le vucu gosipec niw kur wot cujes buweg. Usu vilifje ri maune gavit cefiza cuzbu mofaj va ahi bome owar sappiv."
+  },
+  "apiKey": "43e67d2ce7dc0d93ad6ba7ddba184b6d0350e6de45bc6887223d46b16a1e8b63",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
