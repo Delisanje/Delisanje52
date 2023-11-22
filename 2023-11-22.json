@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Mann",
+  "age": 37,
+  "address": {
+    "street": "Zobre Square",
+    "city": "Etuteca",
+    "state": "NC",
+    "zip": "64843"
+  },
+  "contact": {
+    "phone": "(689) 860-9840",
+    "servicePhone": "800643369"
+  },
+  "birthday": "2005-01-19T23:40:36.303Z",
+  "ip": "177.183.106.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Povucar jahitiwu vemib todlewoh esa fo duveva ehbev ha uc sohasa jizuc su. Fohedo osbub egpawed adogen jukupaja juwir lupum mazucekoj locinire muzo dew pib cu. Ret vibjabu avoriejo nejwuwis izi tefolit boczewit pivtieg ujneru vij zez cagiwda vohem ni nezjugcec.",
+    "bio": "Fumsuife opifol mic rifiawi filzi gonweh korhintab vap lafkas ceahico lojhulo hevecjel hanmi zibusok fekge zafcikbew. Vavigij teez najapwa lu hikeove suvimka ra sohjuv tohvago avo pu urjidfus. Igilag cekduppim ulizovba pacne viduroj rifgeh berarpe rub rowpithez liksimu bapmej dube puwbiholi pejhusa dogni fufduwub pi. Zij sahebizac sihevapaz bini sabuge ufnobjiz niztuh iwimaze worapu se ir tebho pebvas mu oje cop. Sa awakuh ulihun tu fiwibiwa ridpikib izzekper judin vah efi jedopo socgevo nijina nukzo detamdab ni kuli. Toabaka fekuce co log vori pufmimdez for tiloti nuzrezoh ijiwujaj aguobi mitah."
+  },
+  "apiKey": "98b380f70130b7a2260accd71bff0c5f4059f7e2fef21fba1ca32d7903382b7f",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
