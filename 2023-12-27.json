@@ -1,0 +1,26 @@
+{
+  "name": "Brett Ross",
+  "age": 56,
+  "address": {
+    "street": "Ipati Path",
+    "city": "Kiepucuz",
+    "state": "SC",
+    "zip": "80603"
+  },
+  "contact": {
+    "phone": "(331) 627-3670",
+    "servicePhone": "800177969"
+  },
+  "birthday": "1987-02-20T14:53:06.313Z",
+  "ip": "9.254.30.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Tufbevof ze do lu wumcarot azgewiw anguw mu hudiwku puwbehut dokaz me do kuhka so rom dolu. Nef log zausaita fozbi ve ihecug wietu ijipun juwumi uluvabih li vofec kiut ovadiffo ku napcifdur. Wipdiute lukipij zerpugan hodse vu avufoig he silwu ivlingin za fipgig peizuli rof umomovpe edeetne ewubidet hi. Ki zaz laduim ug vawpisvop laf bu dahih go hieji re dubeg nufri sefar ke de.",
+    "bio": "Cuktib bo hojhaz hadjus dapomag woj san sos go zothier nadesa tiwuspa. Vegiife baz epocog av le uro ijouki ugsevpef zemesumo pac mekkucipe figuhto iva semeos worzice. Ce elu fapso vaj surce zinlah ligomi sisconi noda goz narofdes ez bidje ocduji."
+  },
+  "apiKey": "ce25b077caede1107db9f3c27f8a4111f71eaee51d7777e01fd5eaf385d086d0",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
