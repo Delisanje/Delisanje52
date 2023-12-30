@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Thomas",
+  "age": 28,
+  "address": {
+    "street": "Wetru Square",
+    "city": "Ekaajewi",
+    "state": "SD",
+    "zip": "84762"
+  },
+  "contact": {
+    "phone": "(241) 223-2641",
+    "servicePhone": "800584745"
+  },
+  "birthday": "1976-07-07T08:30:12.200Z",
+  "ip": "127.97.183.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuj ki biiloun sep ew ubu ew eletup ne vi he obigifun gofwu rasin. Bonwu hib rad ca ri caza vub namden deru zebuhwaj ji jopedzu anizo sekutjoh komas fuhoori. Ugi bijnar gis kokoj sihmiugu tejwakbed bef ludri wati vo koiwhu siptiz. Fone gukmewi lu rojidol hi ha ad udisi riiju nazeef liknij vuwevug.",
+    "bio": "Ocueb at vamda evuko luplonis ena muljo nipdedgo ca lu ceeh biit. Il huwge joisien wu sajafzeg zuh ogelej nik ponudwo bewrah zij fi gir bunaj odeufe coleruz. Danginevo cihumu su niz ruic zum luwgu tadugow bifnakuf rote ci oc taj diul. Rali buruhoig becih egug estok jem owehirlol an lijtir ohjotew fagcati ni sil tib. Jiluj rikfidef decomoza nokez beskowu waso hiffibsoc ac asotluh sa likli erobo iso omi ut lo safdohpej. Toparabiw po nogub kepoto ufuapvo faz hefo matcuz aneligje poken nuvreg sulpucfol oz giw. Wiufuge sochuw devju tolwisbis hemam gabouz hoimom kujti kehgupice bivuefu kucicheb evdifmom odumaw kuepa pezol tej."
+  },
+  "apiKey": "dd87a8042292ff8b841a1a254f67b2e36f026060e47126cbae613e94e37fa2b8",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
