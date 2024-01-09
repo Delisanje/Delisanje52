@@ -1,0 +1,26 @@
+{
+  "name": "Luis Goodman",
+  "age": 24,
+  "address": {
+    "street": "Puve Plaza",
+    "city": "Hizohtus",
+    "state": "NY",
+    "zip": "20022"
+  },
+  "contact": {
+    "phone": "(579) 625-3896",
+    "servicePhone": "800913617"
+  },
+  "birthday": "2000-10-20T18:01:07.575Z",
+  "ip": "178.113.47.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Jura tutafus loz ige ape punjape ep luz letuz gus jov ubnunul awuicwem ak fipe ejsigi ehover armepe. Oppi pojnev updebic wup zifeg hidibu ijako su cakzurcu ap dutevadu wogip gum teb adjubbov. Iwa ovib pipfos kizfikfoh ku otila podca nuw jes mov vuldocpiv ahweswa.",
+    "bio": "Bofu huna suon vonfa cewoj ruwve sa wum supbusap jopdid fabimhe gautohi raac delozhe. Sabkim omne dev wu hecu ibcorak fatmad cawvalu lettowap miktado cekem golafvu jabel ewa jugiv. Numhonfi nof ak caz fucov fungeweg cus are zakzi jo dabimaf te meve."
+  },
+  "apiKey": "e2fa28d8de10ad9b89265402a005ca569fff8ba6631269a77be7965874df5d3e",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
