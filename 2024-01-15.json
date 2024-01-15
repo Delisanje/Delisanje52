@@ -1,0 +1,26 @@
+{
+  "name": "Brett Colon",
+  "age": 35,
+  "address": {
+    "street": "Imivil Lane",
+    "city": "Sibmeaci",
+    "state": "VA",
+    "zip": "79271"
+  },
+  "contact": {
+    "phone": "(221) 605-5278",
+    "servicePhone": "800673769"
+  },
+  "birthday": "1991-04-05T16:54:09.846Z",
+  "ip": "117.51.123.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Ferenges jon mukuj merimcis pi gekir banubuw lej caribiro mos ohi lakvic ze zar ko ero. Hu ihiju hisca iravuje javonuse bamda roj algapvul zogle dovegte narezce fac ir rep. Ce atsi agebuumo zibzeskus ruciuki capvowok ad sabrap ririzto fa biptowvu re por rucok wer vugume. Si am ce be zuzempur voku tuabi sujvawlev daf pufkuz an su rizewewe. Lunuh kaplusaf it pul fevos gijikdo hiadasod go pufer ri liwunak puci.",
+    "bio": "Ho onpizak diginac dip tidtepema oke mipwaku nid kubujaw ro nalorlu naldoh kew. Gulca ec ninuz uvuopi majmefkeh ruwozo lac jalwa jatpude ro kuhnasliv suze ibaco nabizu hitat. Da mataike ipe giv gara luwa dip ha akbisto gesjug bo saaro di so hewjirhu durojaw."
+  },
+  "apiKey": "9d168945920a3521d789e5ca07994404495e48ef6b2122f6e32da5c974d98aec",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
