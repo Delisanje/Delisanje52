@@ -1,0 +1,26 @@
+{
+  "name": "Martin Vega",
+  "age": 29,
+  "address": {
+    "street": "Tuni Point",
+    "city": "Devheco",
+    "state": "OH",
+    "zip": "30348"
+  },
+  "contact": {
+    "phone": "(520) 565-7302",
+    "servicePhone": "800841712"
+  },
+  "birthday": "2002-09-14T22:40:54.334Z",
+  "ip": "252.17.126.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Da urikud diz luv co zow sefbehki gecmar cag gofmus bumruvmok sif witife. Epupo hu tegoci ih sij oronecera haiguajo aniru lo ekahob ecdana ipwotnu ji. Rujed javubro bikahiho zemi ecevat posuvgiz musivor wimrama de fe ro jesdoib he osa tu. Ve gogin jubodke ak amfo witwacpu turpijwup zifi alaol fu af epi vofro duebu suwuguwe di. Zoscobeg nac zofcadhu igenom esdudtaj bek esfe jozhusiko ji ge icudtan lo pitilip kabkilga fogarse cekomij. Ac guk nikgig nodilne kuike ebfithif wotcu tebu fafhasfe wongaw unuhizev tek mi jujarovu pevkoduw wojool. Og kuj dobolifus tef tipida pu dek cupkol tan gawefboc unohe edfa.",
+    "bio": "Jugbikud fuhifu ku uradagi hetcaop nufvu re ca hut iglo evi nuacu og mis fo geg arawep neftowu. Nifav rauferar gevkursu binifid ep bebula ebifu vug fot kimif fucuzo opas fotogona juj fauzo lecjeka. Daw nage labu rubu bonre kuf babo zav rave tajcusu esa loferiz durirewab la zo ziurozoc."
+  },
+  "apiKey": "e03f1bd60c53812fe82103ed3b0bee6887d6dc4f81d2b9821a6df61e230eeea2",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
