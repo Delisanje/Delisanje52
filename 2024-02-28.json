@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Davis",
+  "age": 45,
+  "address": {
+    "street": "Avju Boulevard",
+    "city": "Azemiam",
+    "state": "MO",
+    "zip": "21089"
+  },
+  "contact": {
+    "phone": "(887) 548-8023",
+    "servicePhone": "800912585"
+  },
+  "birthday": "1965-05-19T15:24:35.063Z",
+  "ip": "156.177.27.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Luheto jumojbom su es oli cafzelibe amu uzuuzo ducombe hibir gepojjos eruufefo tad. Dekug roge je hutka wuc fogusi wavow zegul novu remhofdag piv gidzif siknuwuv ze. Sub winnagos owaisahu bonob uzzi kid uvu jodipej ejeip mocafwuk jozotupe sad gon hohti penir vuzib zemilun gujdi. Nuimif jitugooku loteb loebnum az ucehecufo ku ruvetjez ekwo gazini idiowi liroev jus afo jiurocu baswigdi. Til erbu nij hedoho zuzel ja kaliw veroeju zeitbib pehep limpa wi si vecu. Gozucvo tig vando luwuwaji fuvlonmu edvaz ruh vomepzad zah hot dorsi zaw ekve pi. Cor wavir wuztec fe egion gug afi ranedeh woguboco ud ja pa gomububa ahicke hewozagak luspopa mi.",
+    "bio": "Cowhuf fivejuh uggun seedoran gute hac ze decem bel zukake gog abzusko kagofmu cecar. Jeva une nec kas gezaeg muhat zik pes lob bi zalzenof batapla mewde. Ga lecibani ebge zob lig kab olkopvap baru kahtiv wi udoji pavjak ez nibek."
+  },
+  "apiKey": "9c385cd4b524c4e909b01a929c9d523499b78be3d48bb54ce9f3ffba17caba0e",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
