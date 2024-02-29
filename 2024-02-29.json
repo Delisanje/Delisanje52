@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Sutton",
+  "age": 54,
+  "address": {
+    "street": "Refun Plaza",
+    "city": "Omzapu",
+    "state": "ND",
+    "zip": "50999"
+  },
+  "contact": {
+    "phone": "(213) 855-5135",
+    "servicePhone": "800982293"
+  },
+  "birthday": "1978-08-03T00:38:30.940Z",
+  "ip": "96.22.167.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Pizbul emafiva ji gu fudicpi mipat jaokfu izuvizdi mega di uruginho se kutrellar. Etiefpa nataivi af betoj jillum me le jen jojuljan ma ga uzu. Raziro foszu uwu peico co kelo vukmusi tukisnig ce mukfifepe ipaoma ik garusi komnoge piseza vuboffu givuki. Pol bof hohdu mumebav jeop nuen ef zaha rakatar wo uweho ta hi cet ab ja izore.",
+    "bio": "Zi oci gevsocen hez la nawrigok mugmuped cegifi micvagis ces ge do azuzdog tim wuofal. Putce co ob simzi setevwaw uge juruwpah ba lofa bowcoc za ajedu aluzewun be tasuje. Dehmal favab ana hem te esimura gicalki icezuj evo idi we rakifu zon gi. Bu ruk bi niomikef afwojlup me hif ul siskil te mojta jijuca."
+  },
+  "apiKey": "c09f90debcf43e56b6d24970bc3d6c6ca6368371dd38be546b26ae3e56a4a3e9",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
