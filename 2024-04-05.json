@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Watkins",
+  "age": 25,
+  "address": {
+    "street": "Tihkuz Path",
+    "city": "Zenodnan",
+    "state": "AR",
+    "zip": "07780"
+  },
+  "contact": {
+    "phone": "(208) 345-5483",
+    "servicePhone": "800994739"
+  },
+  "birthday": "1977-01-29T11:45:07.244Z",
+  "ip": "125.81.103.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafjon felali gosokopo gafhi itwumdof jatiso bokus cidoulu jolpe jo ri wavem lepindo. Ce wem vaaca ceg vowfij vetnuvge kip peri ju kiv dewige mu. Rubiwruz atgotu dihnap muhi ufbosle je hutpu iz tuesido mut socfo ponu tu no. Ponbituk doca rimovujul menobze olre gab oco is je dak hof tu. Nihod gutecir gonfik elgif pi viz kofbusgu muca hifigke hubawobiz lapiko mek hobje kotadwe lubaheri.",
+    "bio": "Lipji idira kazocka ajapaflet iwje hu kovid weku kiobi ne cocrow ujsutal. Oha bowuggi bed vohdacrog we gosmih kezutpa pogza ho pifbi zoj dezigeb. Sisikuz nul wafmeabi fuwhaufo hah diw luwku huz lupif belbetep sanoso vipmuh asoezalo. Moh ke uveebupij jekero bozaj zecwi huucubo mis movfe ur tuoppe gom kod johi izit no ehigoho umi. Kurod jorwob mazik duti benrawet welra haiszuv wuba ofa baej hojuz pisjirah bo uhapujzil dafudohi zeivzu solu hafoga."
+  },
+  "apiKey": "fc365488e2588af42c5ed9843fb69a0df1d06684a82cc2205593cb8e669463f1",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
