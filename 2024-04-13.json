@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Santiago",
+  "age": 63,
+  "address": {
+    "street": "Lauk Turnpike",
+    "city": "Fogbase",
+    "state": "ND",
+    "zip": "71123"
+  },
+  "contact": {
+    "phone": "(766) 930-2142",
+    "servicePhone": "800686752"
+  },
+  "birthday": "1968-04-14T08:17:55.898Z",
+  "ip": "140.238.155.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Mucukgu ced kaza savud owodic guhtin lahnem jouzo udifocesu ru upeg lecbij ge fum fuurno. Bifko caheki no uccoghi jo ow zij ceente fihohtev gepih pe beccaok ki rihop. Zad duvuc fu dudto liaro cevasoko uriisu egu dunlabum cig mev wucubo mimesmop afalo buabisa lo mulwacse. Kehet gincagik su uwmuwim one ak bip se kez zamizivi gisahuguc coj fuki kelubzu.",
+    "bio": "Nuto jivdada hurfifih fotoke mog cub urivolo wa ujgimec nucediiwo wa da ga worudji ribucto ho. Jo dimajumu pidvoj ijzebi leer iz sig ejze fiknu bolmezre owe ehaazeava. Bihini migij za peswepan ceju upkiaza idatirdu netolhol azepej fajlap heam abo koede."
+  },
+  "apiKey": "cbb9d5932705b15cd8f95692d28a15dfdd857d15768532625a4c5a9120dca7fd",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
