@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Henderson",
+  "age": 35,
+  "address": {
+    "street": "Redac Circle",
+    "city": "Keshedo",
+    "state": "NJ",
+    "zip": "94647"
+  },
+  "contact": {
+    "phone": "(421) 645-7932",
+    "servicePhone": "800579838"
+  },
+  "birthday": "1997-11-09T13:18:31.201Z",
+  "ip": "117.83.166.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Dasaj zu ubonev rubitfak tuw nafac eriva mawnuzi poguto derdi hu umejkev. Ecsurku wehfe mukaj folvelor rollabku sedesu amaka aro puhoz zabe guzuho vav wugcefap wownij jiv heozivof ad sodheut. Gom epjenbor ju gacop jode wigis lukte gear bibi tas ciceh iselizgo pen je siwnowveh unogijak. Pujse du vurobiv jip ominifhaw uvo veekakic win kiflet hugelped ziziru zolpi lehi. Vedzeg vod ke ovosim iregek ahcic ruhvej kina bomrogso omevuw kofirtah com usilrit.",
+    "bio": "Tonjuvup pa fig hojidi cupidgom obu arneru ana ci se sicmebbiw hakpevnac ci vo beewi zipte dagbad ico. Peruc saguta gihiwsaj zowniru vocbus fiwiuni mino cadisuihe ikasu faulowi mowu nofarja. Biv rasvi nu hurut vuro oduekjek nibkocror juhitka si goc soztid cu remohciv tontom udiigon tidomje veica utsin. Zal ituni buj douc asoaj otuow matpi siiv zil egeuwipe eto ug lutimeg dic rod misbufep noezi. Col armibo buhvuv ro wozu irzuere eflef huosanu lomadat joloko zurvit maz da."
+  },
+  "apiKey": "f6ccc0ab76c441e07e23f509f97eb2eac7bcb1ebd1c1f72857d50684e25a93dc",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
