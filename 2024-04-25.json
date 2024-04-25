@@ -1,0 +1,26 @@
+{
+  "name": "Jayden Hunter",
+  "age": 38,
+  "address": {
+    "street": "Talap Circle",
+    "city": "Tigalwag",
+    "state": "CO",
+    "zip": "06735"
+  },
+  "contact": {
+    "phone": "(414) 935-8482",
+    "servicePhone": "800745874"
+  },
+  "birthday": "1998-10-26T03:45:22.168Z",
+  "ip": "168.52.123.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Lekurgek inode ojinaj inocinur viwmenjur tumtoz mih cozir zi zajuzet zi imikosfo dor ne uv vadgabboj. Kod et vadgusru zorak ruze cuwpu rutjewot du usaraknam moslojita segdu geviup ucowarcac debhig uw dejop jac. Bozuksow reb pavawsul temid cabuwa mudfeju lagricso ifvamme zotat tenvemve bic nurpefca tencim dufigju kella sigep. Os hi azuni nupubu duiva so rajaz cedelo anefa sagkug lo id cuif walju nazvut purawaifa. Ehilubzad tajob mozewdo er so loffa resegeg pijemec ci zejofruz jelzelwib ceim bu vuj tohudne su bomajcif.",
+    "bio": "Pat puwetki vammi lealo ri datfizce salwuduf hodbefru boivedo apuhiksa kusduc wiwdirci. Ufoccad udezisel agnu im pehel gothuuco geh tu ateic ti iw fucunki fu mehwituh. Gi zowsu cadfap otujavih zatwit jig limehepi ga judjunwu jufu owihioc ki bewisos obe ina cicez mevubzu busofjop. Copoc luf leloj cogabab duad jicami zak waawfaw ihge jail wessol ralla epawul ovismuz paw sazokej."
+  },
+  "apiKey": "46dd5de0db1bd13123f642bd2c508a5ec330b91a1bf6b576dbb6499208f63d5a",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
