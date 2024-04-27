@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Steele",
+  "age": 42,
+  "address": {
+    "street": "Burzo Boulevard",
+    "city": "Arrucow",
+    "state": "NM",
+    "zip": "84668"
+  },
+  "contact": {
+    "phone": "(906) 597-5692",
+    "servicePhone": "800587956"
+  },
+  "birthday": "1960-12-03T00:23:22.150Z",
+  "ip": "130.15.88.195",
+  "foo": "bar",
+  "profile": {
+    "about": "En ora wic rek da ebkip wevu ek tenebni if feporije modvuta rek udde rukilur elesomev tabhok. Eltuoci zivviwa jas immi kuzehegi so gimjabez kuhof pafa os migij atga je ke ze judove ubvevne. Ez vubu otpemer nofib tut motusot jej bejheena paz me sobalpo uju al. Vilermec ekcoina ja dadvi fa wo go suwirag ne dov ekhazhur ceghu biovje um luj edafi. Wek isomeebu kawu nigwuce celfa hih mouc hidlo gujuju subiwhan gi sakunkuz. Hilve cibigzi won lejtus elu gug teostem vihpize vapgiw vopudi matpako rurosla cid bowjufsa ga sapef pasokoigu sewle. Vagduwub bo tebcedal poh necgu vejjec hiscavo peupu et jagip ojaadi am azivi katjil jasijehid tet murmeh alenu.",
+    "bio": "Fudaj pehepzi ka vu moolmon ecgo giz puc taz puhbosgo ku horovituv gemsodu. Li vinmo ugwar wevle vu zuto gacabev peg fuzju be adapa tir uplif. Wotan ofi gobwahaj atoagga hutses gomom ra eto zaice viwe vasumki armofaj. Do nohkioz iwugefsi ben ibcav ramarza ton ranraz helitmi lol lazvi te ri aklolse be zaora pitbufeb sitavira. Foze budmube ovaga koj je nup urto jevwo lajair reuta naasima zukidfuh ce. Fijok kuvumuf wewoftun nume ji soal cizuk fisugjim ci opuji wogu be rohnip kirop jipizha zesawewi nugope uf."
+  },
+  "apiKey": "46bf536def9c3f8192455698abad296218d6a70c9b9ae3b750c13c7c7e841066",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
